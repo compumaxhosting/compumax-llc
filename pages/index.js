@@ -21,11 +21,6 @@ const HomePage = () => {
           <ServiceSection />
           <ProjectSection />
           <ContactFormComponent />
-          {/* <Testimonial />
-                    <TeamSection /> */}
-          {/* <BlogSection /> */}
-          {/* 
-                    <CtaSection /> */}
         </main>
         <Footer />
         <Scrollbar />
